@@ -9,4 +9,5 @@ Komponenty niezbędne do działania:
 	- ChatID użytkownika - unikalny chatID, każdy użytkownik dostaje inny 
 	- Token bota - bot może obsługiwać wielu użytkowników, a token jest jeden 
 	- Metody na przesłanie tokenów do programu docelowego
+    - Wuchty wolnego czasu na ogarnięcie tego pierdolnika
     
